@@ -1,5 +1,5 @@
 # Atividade Estrutura de Dados Marcelo Moniuer 
-## Descrição:
+Descrição:
 Prof Marcelo passou para a turma faze um diagrama de uma empresa logistica.
 
 Como Ver:
@@ -8,6 +8,6 @@ Como Ver:
 
 
 Alunos:
- Estherphany
- Arthur
+ Estephany,
+ Arthur,
  Kaylanne
